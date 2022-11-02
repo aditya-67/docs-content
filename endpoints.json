@@ -15,22 +15,6 @@
                     "api_reference": false
                 }
             ]
-        },
-        {
-            "name": "Dev tools",
-            "path": "dev-tools",
-            "order": 4,
-            "visible_in_sidebar": true,
-            "api_reference": false,
-            "children": [
-                {
-                    "name": "The Bridge",
-                    "path": "bridge",
-                    "order": 0,
-                    "visible_in_sidebar": true,
-                    "api_reference": false
-                }
-            ]
         }
     ]
 }
