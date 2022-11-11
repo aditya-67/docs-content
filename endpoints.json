@@ -15,6 +15,22 @@
                     "api_reference": false
                 }
             ]
+        },
+        {
+            "name": "Dev tools",
+            "path": "dev-tools",
+            "order": 0,
+            "visible_in_sidebar": true,
+            "api_reference": true,
+            "children": [
+                {
+                    "name": "Bridge",
+                    "path": "bridge",
+                    "order": 1,
+                    "visible_in_sidebar": true,
+                    "api_reference": false
+                }
+            ]
         }
     ]
 }
